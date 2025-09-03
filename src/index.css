@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Adiciona customizações para integração do Material UI */
+.MuiDataGrid-root {
+  font-family: inherit !important;
+}
